@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AtmApplication<atm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bangroseron.atm.AtmApplication",
+            "projectName": "atm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
